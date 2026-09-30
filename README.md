@@ -6,7 +6,7 @@ RateTO is a Toronto neighborhood exploration app. Enter an address to view a map
 
 | Path | Description |
 | --- | --- |
-| [`frontend/`](frontend/README-RateTO.md) | React application and map interface |
+| [`frontend/`](frontend/README.md) | React application and map interface |
 | [`backend/`](backend/README.md) | Flask API, scoring logic, and city-data files |
 
 See the linked component READMEs for installation, configuration, and run instructions.
