@@ -1,0 +1,236 @@
+[
+    {
+        "address": "2054 Davenport Road ",
+        "facility": "11 Division",
+        "id": 1,
+        "location": [
+            -79.4608283318321,
+            43.671079704102
+        ]
+    },
+    {
+        "address": "200 Trethewey Drive ",
+        "facility": "12 Division ",
+        "id": 2,
+        "location": [
+            -79.4868758081725,
+            43.6945791420928
+        ]
+    },
+    {
+        "address": "1435 Eglinton Avenue West ",
+        "facility": "13 Division",
+        "id": 3,
+        "location": [
+            -79.436683017409,
+            43.6983272470012
+        ]
+    },
+    {
+        "address": "350 Dovercourt Road ",
+        "facility": "14 Division",
+        "id": 4,
+        "location": [
+            -79.4259812009934,
+            43.6513054941584
+        ]
+    },
+    {
+        "address": "3699 Bloor Street West ",
+        "facility": "22 Division",
+        "id": 5,
+        "location": [
+            -79.5291845553465,
+            43.6431068970931
+        ]
+    },
+    {
+        "address": "5230 Finch Avenue West ",
+        "facility": "23 Division",
+        "id": 6,
+        "location": [
+            -79.5835216883366,
+            43.7438660574591
+        ]
+    },
+    {
+        "address": "40 Norfinch Drive ",
+        "facility": "31 Division",
+        "id": 7,
+        "location": [
+            -79.5274742824823,
+            43.7567504692521
+        ]
+    },
+    {
+        "address": "30 Ellerslie Avenue ",
+        "facility": "32 Division",
+        "id": 8,
+        "location": [
+            -79.4150871867306,
+            43.7717282049346
+        ]
+    },
+    {
+        "address": "50 Upjohn Road ",
+        "facility": "33 Division",
+        "id": 9,
+        "location": [
+            -79.3500686631186,
+            43.7510816421946
+        ]
+    },
+    {
+        "address": "2222 Eglinton Avenue East ",
+        "facility": "41 Division",
+        "id": 10,
+        "location": [
+            -79.2771104529925,
+            43.7308054968613
+        ]
+    },
+    {
+        "address": "242 Milner Avenue",
+        "facility": "42 Division",
+        "id": 11,
+        "location": [
+            -79.2400121060447,
+            43.7893738948636
+        ]
+    },
+    {
+        "address": "4331 Lawrence Avenue East ",
+        "facility": "43 Division",
+        "id": 12,
+        "location": [
+            -79.1740565912932,
+            43.7708353585185
+        ]
+    },
+    {
+        "address": "51 Parliament Street",
+        "facility": "51 Division",
+        "id": 13,
+        "location": [
+            -79.362142235594,
+            43.6519513901186
+        ]
+    },
+    {
+        "address": "255 Dundas Street West ",
+        "facility": "52 Division",
+        "id": 14,
+        "location": [
+            -79.389717591621,
+            43.65420902129
+        ]
+    },
+    {
+        "address": "75 Eglinton Avenue West ",
+        "facility": "53 Division",
+        "id": 15,
+        "location": [
+            -79.4006618065204,
+            43.706060012978
+        ]
+    },
+    {
+        "address": "41 Cranfield Road ",
+        "facility": "55 Substation",
+        "id": 16,
+        "location": [
+            -79.3094827680076,
+            43.7146083755555
+        ]
+    },
+    {
+        "address": "101 Coxwell Avenue ",
+        "facility": "55 Division",
+        "id": 17,
+        "location": [
+            -79.3172993476748,
+            43.6691800181661
+        ]
+    },
+    {
+        "address": "9 Hanna Avenue",
+        "facility": "Traffic Services",
+        "id": 18,
+        "location": [
+            -79.4172240420315,
+            43.6376314131271
+        ]
+    },
+    {
+        "address": "39 Howden Road",
+        "facility": "East Collision Reporting Centre",
+        "id": 19,
+        "location": [
+            -79.2882379031507,
+            43.7495554966813
+        ]
+    },
+    {
+        "address": "113 Toryork Drive ",
+        "facility": "North Collision Reporting Centre",
+        "id": 20,
+        "location": [
+            -79.5515352091631,
+            43.7564091641106
+        ]
+    },
+    {
+        "address": "91 Manitoba Drive ",
+        "facility": "Mounted Unit",
+        "id": 21,
+        "location": [
+            -79.4180978021114,
+            43.6352666156692
+        ]
+    },
+    {
+        "address": "70 Birmingham Street",
+        "facility": "Toronto Police College",
+        "id": 22,
+        "location": [
+            -79.5034823788963,
+            43.605084207509
+        ]
+    },
+    {
+        "address": "40 College Street ",
+        "facility": "Headquarters",
+        "id": 23,
+        "location": [
+            -79.3851429057596,
+            43.6613577157599
+        ]
+    },
+    {
+        "address": "330 Progress Avenue",
+        "facility": "Parking Enforcement East/Property & Evidence Management",
+        "id": 24,
+        "location": [
+            -79.2685386609148,
+            43.7741731469087
+        ]
+    },
+    {
+        "address": "970 Lawrence Avenue West ",
+        "facility": "Parking Enforcement West",
+        "id": 25,
+        "location": [
+            -79.4582923656458,
+            43.713761023763
+        ]
+    },
+    {
+        "address": "259 Queens Quay West ",
+        "facility": "Marine Headquarters",
+        "id": 26,
+        "location": [
+            -79.3858740470089,
+            43.6378698515667
+        ]
+    }
+]

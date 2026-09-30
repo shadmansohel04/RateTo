@@ -1,0 +1,146 @@
+.aboutBody{
+    margin-top: 3%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    width: 60%;
+    align-self: center;
+    margin-bottom: 4%;
+}
+
+.aboutBody a{
+    color: white;
+    font-weight: 800;
+    text-decoration:none;
+}
+
+.aboutBody h1{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-size: 7vw;
+    color: white;
+}
+
+.scoreContainer{
+    display: flex;
+    padding: 2%;
+    background-color: rgba(0, 0, 0, 0.8);
+    color: white;
+    font-size: 1.4vw;
+    font-weight: 500;
+    border-radius: 20px;
+    margin-bottom: 4%;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.scoreContainerTop{
+    display: flex;
+    flex-direction: column;
+    padding: 2%;
+    background-color: rgba(0, 0, 0, 0.6);
+    color: white;
+    font-size: 1.4vw;
+    font-weight: 500;
+    border-radius: 20px;
+    margin-bottom: 4%;
+    width: 100%;
+}
+
+.scoreContainerTop ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    padding: 1%;
+    text-align: center;
+    margin-bottom: 2%;
+    list-style: none;
+}
+
+.gettingDumb{
+    width: 60%;
+}
+
+.scoreContainerTop ul a{
+    font-weight: 100;
+    transition: all 0.2s ease-in;
+}
+
+.scoreContainerTop a:hover{
+    font-weight: 800;
+}
+
+.scoreContainer p{
+    width: 50%;
+    font-size: 1.4vw;
+    font-weight: 600;
+}
+
+.scoreContainer h2{
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    font-size: 2vw;
+    margin-bottom: 2%;
+}
+
+@media (max-width: 768px){
+    .aboutBody{
+        margin-top: 30%;
+        width: 90%;
+    }
+
+    .aboutBody h1{
+        font-size: 4rem;
+    }
+
+    .scoreContainer{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    .scoreContainer h2{
+        font-size: 2rem;
+    }
+
+    .scoreContainer p{
+        font-size: 1rem;
+        text-align: left;
+        width: 90%;
+        padding: 2%;
+    }
+
+    .scoreContainerTop{
+        width: 90%;
+    }
+
+    .gettingDumb{
+        padding: 5%;
+    }
+
+    .scoreContainerTop p{
+        font-size: 1rem;
+        align-self: center;
+        text-align: left;
+        padding: 3%;
+    }
+
+    .scoreContainerTop ul{
+        display: flex;
+        flex-direction: column;
+        text-align: left;
+        padding: 0;
+        margin: 0;
+    }
+
+    .scoreContainerTop ul a{
+        font-size: 1rem;
+        margin-bottom: 5%;
+    }
+
+    .scoreContainerTop li{
+        margin-bottom: 4%;
+    }
+
+}

@@ -1,0 +1,154 @@
+[
+  {
+    "location": "BAY ST AT DUNDAS ST W (PX 66)",
+    "count": 26875,
+    "coord": [
+      43.655714996924,
+      -79.3837659965355
+    ]
+  },
+  {
+    "location": "BATHURST ST AT GLENGROVE AVE",
+    "count": 14416,
+    "coord": [
+      43.714203997,
+      -79.428599293
+    ]
+  },
+  {
+    "location": "DUNDAS ST AT SPADINA AVE (PX 277)",
+    "count": 20778,
+    "coord": [
+      43.652944004499,
+      -79.3980490041488
+    ]
+  },
+  {
+    "location": "JANE ST AT QUEENS DR",
+    "count": 1569,
+    "coord": [
+      43.707366973,
+      -79.505057472
+    ]
+  },
+  {
+    "location": "ELINOR AVE AT LAWRENCE AVE (PX 2178)",
+    "count": 6844,
+    "coord": [
+      43.7440989994768,
+      -79.3005540016264
+    ]
+  },
+  {
+    "location": "LAKE SHORE BLVD AT PARLIAMENT ST (PX 209)",
+    "count": 18397,
+    "coord": [
+      43.6477379964,
+      -79.3610430031431
+    ]
+  },
+  {
+    "location": "LAKE SHORE BLVD AT WINDERMERE AVE (PX 229)",
+    "count": 24086,
+    "coord": [
+      43.6351890029381,
+      -79.46814699688
+    ]
+  },
+  {
+    "location": "EGLINTON AVE AT PHARMACY AVE (PX 452)",
+    "count": 35234,
+    "coord": [
+      43.7256510009606,
+      -79.2975149974673
+    ]
+  },
+  {
+    "location": "DANFORTH AVE AT DANFORTH RD (PX 357)",
+    "count": 13097,
+    "coord": [
+      43.6936459956388,
+      -79.277289999493
+    ]
+  },
+  {
+    "location": "BLACK CREEK DR AT EGLINTON AVE (PX 1422)",
+    "count": 31712,
+    "coord": [
+      43.688367998834,
+      -79.4828779988047
+    ]
+  },
+  {
+    "location": "FALLINGBROOK RD AT KINGSTON RD",
+    "count": 2662,
+    "coord": [
+      43.6822574406743,
+      -79.2792416156221
+    ]
+  },
+  {
+    "location": "LILLIAN ST AT SOUDAN AVE",
+    "count": 3749,
+    "coord": [
+      43.7052827568072,
+      -79.3932589586169
+    ]
+  },
+  {
+    "location": "BOWMORE RD AT GERRARD ST (PX 366)",
+    "count": 5889,
+    "coord": [
+      43.6780899962053,
+      -79.3149860027181
+    ]
+  },
+  {
+    "location": "AVENUE RD AT WOBURN AVE (PX 504)",
+    "count": 20690,
+    "coord": [
+      43.7254199973311,
+      -79.4168930045074
+    ]
+  },
+  {
+    "location": "AVENUE RD AT DUNBLAINE AVE (PX 122)",
+    "count": 3147,
+    "coord": [
+      43.735922999711,
+      -79.4201030021277
+    ]
+  },
+  {
+    "location": "BROADVIEW AVE AT ERINDALE AVE",
+    "count": 10443,
+    "coord": [
+      43.6775208346087,
+      -79.3586523529059
+    ]
+  },
+  {
+    "location": "ISLINGTON AVE AT MARKET GARDEN MEWS",
+    "count": 19095,
+    "coord": [
+      43.6229026262144,
+      -79.5144458594849
+    ]
+  },
+  {
+    "location": "INDIAN GROVE AT INDIAN VALLEY CRES",
+    "count": 542,
+    "coord": [
+      43.6512003581722,
+      -79.4570868491097
+    ]
+  },
+  {
+    "location": "BROOKSIDE AVE AT ST JOHNS RD",
+    "count": 224,
+    "coord": [
+      43.6614517348845,
+      -79.4921372213205
+    ]
+  }
+]

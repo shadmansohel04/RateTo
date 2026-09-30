@@ -1,0 +1,57 @@
+header{
+    display: flex;
+    padding-top: 2%;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 2%;
+    align-items: center;
+    justify-content: end;
+    font-family: "Edu AU VIC WA NT Hand", cursive;
+    background-color: transparent;
+    align-items: center;
+}
+
+ header ul{
+    display: flex;
+    list-style-type: none;
+    width: 50%;
+    margin: 0;
+    justify-content: end;
+    text-align: right;
+    font-weight: 100;
+    right: 4%;
+    top: 4%;
+}
+
+header li{
+    margin-left: 5%;
+    font-size: 1.5vw;
+}
+
+
+header a{
+    text-decoration: none;
+    color: white;
+    padding: 20%;
+    transition: all 0.3s ease-in-out;
+} 
+
+header a:hover{
+    font-weight: 800;
+    border-radius: 15px;
+}
+
+@media (max-width: 768px){
+    header{
+        padding-top: 7%;
+        padding-right: 7%;
+    }
+
+    header li{
+        font-size: 1rem;
+        margin-left: 10%;
+    }
+    header ul{
+        right: 10%;
+    }
+}

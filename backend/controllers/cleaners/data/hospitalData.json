@@ -1,0 +1,546 @@
+[
+  {
+    "name": "Humber River Hospital - Church St",
+    "address": "200 Church St, York",
+    "coordinates": [
+      43.7095314,
+      -79.51054484615399
+    ]
+  },
+  {
+    "name": "Humber River Hospital - Finch Ave",
+    "address": ": 2111 Finch Ave W, North York",
+    "coordinates": [
+      43.7536378,
+      -79.5260221
+    ]
+  },
+  {
+    "name": "Humber River Hospital - Keele St",
+    "address": " 1235 Wilson Ave, North York",
+    "coordinates": [
+      43.723172500000004,
+      -79.48942050990618
+    ]
+  },
+  {
+    "name": "Hospital for Sick Children",
+    "address": "170 Elizabeth St, Toronto",
+    "coordinates": [
+      43.657087,
+      -79.386051
+    ]
+  },
+  {
+    "name": "Mount Sinai Hospital",
+    "address": "600 University Ave, Toronto",
+    "coordinates": [
+      43.6574502,
+      -79.39032113692951
+    ]
+  },
+  {
+    "name": "North York General Hospital",
+    "address": "4001 Leslie St, Toronto",
+    "coordinates": [
+      43.7692285,
+      -79.3625576854712
+    ]
+  },
+  {
+    "name": "Rouge Valley Health System - Centenary",
+    "address": "2867 Ellesmere Rd, Scarborough",
+    "coordinates": [
+      43.7810872,
+      -79.2054395625573
+    ]
+  },
+  {
+    "name": "Rouge Valley Health System - Ajax & Pickering",
+    "address": "580 Harwood Ave S, Ajax",
+    "coordinates": [
+      43.83739215,
+      -79.0173652616416
+    ]
+  },
+  {
+    "name": "The Scarborough Hospital - Birchmount Campus",
+    "address": "3030 Birchmount Rd, Scarborough",
+    "coordinates": [
+      43.8028785,
+      -79.3086337
+    ]
+  },
+  {
+    "name": "St. Michael's Hospital",
+    "address": "36 Queen St E, Toronto",
+    "coordinates": [
+      43.65292663157895,
+      -79.37729
+    ]
+  },
+  {
+    "name": "Women's College Hospital",
+    "address": " 76 Grenville St, Toronto",
+    "coordinates": [
+      43.66173045,
+      -79.38753922961365
+    ]
+  },
+  {
+    "name": "Michael Garron Hospital (formerly Toronto East General Hospital)",
+    "address": "825 Coxwell Ave, East York",
+    "coordinates": [
+      43.690160250000005,
+      -79.32501790246266
+    ]
+  },
+  {
+    "name": "Trillium Health Partners - Mississauga",
+    "address": "100 Queensway W, Mississauga",
+    "coordinates": [
+      43.5719262,
+      -79.60808433976982
+    ]
+  },
+  {
+    "name": "Trillium Health Partners - Queensway",
+    "address": "150 Sherway Dr, Etobicoke",
+    "coordinates": [
+      43.6099866,
+      -79.56272346216254
+    ]
+  },
+  {
+    "name": "University Health Network - Princess Margaret",
+    "address": "620 University Ave, Toronto",
+    "coordinates": [
+      43.658517,
+      -79.390206
+    ]
+  },
+  {
+    "name": "University Health Network - Toronto Western",
+    "address": "399 Bathurst St, Toronto",
+    "coordinates": [
+      43.653566999999995,
+      -79.40549604487205
+    ]
+  },
+  {
+    "name": "William Osler Health Centre - Etobicoke General",
+    "address": "101 Humber College Blvd, Etobicoke",
+    "coordinates": [
+      43.7290756,
+      -79.59788584813774
+    ]
+  },
+  {
+    "name": "Humber River Hospital - Church St",
+    "address": "200 Church St, York",
+    "coordinates": [
+      43.7095314,
+      -79.51054484615399
+    ]
+  },
+  {
+    "name": "Humber River Hospital - Finch Ave",
+    "address": ": 2111 Finch Ave W, North York",
+    "coordinates": [
+      43.7536378,
+      -79.5260221
+    ]
+  },
+  {
+    "name": "Humber River Hospital - Keele St",
+    "address": " 1235 Wilson Ave, North York",
+    "coordinates": [
+      43.723172500000004,
+      -79.48942050990618
+    ]
+  },
+  {
+    "name": "Hospital for Sick Children",
+    "address": "170 Elizabeth St, Toronto",
+    "coordinates": [
+      43.657087,
+      -79.386051
+    ]
+  },
+  {
+    "name": "Mount Sinai Hospital",
+    "address": "600 University Ave, Toronto",
+    "coordinates": [
+      43.6574502,
+      -79.39032113692951
+    ]
+  },
+  {
+    "name": "North York General Hospital",
+    "address": "4001 Leslie St, Toronto",
+    "coordinates": [
+      43.7692285,
+      -79.3625576854712
+    ]
+  },
+  {
+    "name": "Rouge Valley Health System - Centenary",
+    "address": "2867 Ellesmere Rd, Scarborough",
+    "coordinates": [
+      43.7810872,
+      -79.2054395625573
+    ]
+  },
+  {
+    "name": "Rouge Valley Health System - Ajax & Pickering",
+    "address": "580 Harwood Ave S, Ajax",
+    "coordinates": [
+      43.83739215,
+      -79.0173652616416
+    ]
+  },
+  {
+    "name": "The Scarborough Hospital - Birchmount Campus",
+    "address": "3030 Birchmount Rd, Scarborough",
+    "coordinates": [
+      43.8028785,
+      -79.3086337
+    ]
+  },
+  {
+    "name": "St. Michael's Hospital",
+    "address": "36 Queen St E, Toronto",
+    "coordinates": [
+      43.65292663157895,
+      -79.37729
+    ]
+  },
+  {
+    "name": "Women's College Hospital",
+    "address": " 76 Grenville St, Toronto",
+    "coordinates": [
+      43.66173045,
+      -79.38753922961365
+    ]
+  },
+  {
+    "name": "Michael Garron Hospital (formerly Toronto East General Hospital)",
+    "address": "825 Coxwell Ave, East York",
+    "coordinates": [
+      43.690160250000005,
+      -79.32501790246266
+    ]
+  },
+  {
+    "name": "Trillium Health Partners - Mississauga",
+    "address": "100 Queensway W, Mississauga",
+    "coordinates": [
+      43.5719262,
+      -79.60808433976982
+    ]
+  },
+  {
+    "name": "Trillium Health Partners - Queensway",
+    "address": "150 Sherway Dr, Etobicoke",
+    "coordinates": [
+      43.6099866,
+      -79.56272346216254
+    ]
+  },
+  {
+    "name": "University Health Network - Princess Margaret",
+    "address": "620 University Ave, Toronto",
+    "coordinates": [
+      43.658517,
+      -79.390206
+    ]
+  },
+  {
+    "name": "University Health Network - Toronto Western",
+    "address": "399 Bathurst St, Toronto",
+    "coordinates": [
+      43.653566999999995,
+      -79.40549604487205
+    ]
+  },
+  {
+    "name": "William Osler Health Centre - Etobicoke General",
+    "address": "101 Humber College Blvd, Etobicoke",
+    "coordinates": [
+      43.7290756,
+      -79.59788584813774
+    ]
+  },
+  {
+    "name": "Humber River Hospital - Church St",
+    "address": "200 Church St, York",
+    "coordinates": [
+      43.7095314,
+      -79.51054484615399
+    ]
+  },
+  {
+    "name": "Humber River Hospital - Finch Ave",
+    "address": ": 2111 Finch Ave W, North York",
+    "coordinates": [
+      43.7536378,
+      -79.5260221
+    ]
+  },
+  {
+    "name": "Humber River Hospital - Keele St",
+    "address": " 1235 Wilson Ave, North York",
+    "coordinates": [
+      43.723172500000004,
+      -79.48942050990618
+    ]
+  },
+  {
+    "name": "Hospital for Sick Children",
+    "address": "170 Elizabeth St, Toronto",
+    "coordinates": [
+      43.657087,
+      -79.386051
+    ]
+  },
+  {
+    "name": "Mount Sinai Hospital",
+    "address": "600 University Ave, Toronto",
+    "coordinates": [
+      43.6574502,
+      -79.39032113692951
+    ]
+  },
+  {
+    "name": "North York General Hospital",
+    "address": "4001 Leslie St, Toronto",
+    "coordinates": [
+      43.7692285,
+      -79.3625576854712
+    ]
+  },
+  {
+    "name": "Rouge Valley Health System - Centenary",
+    "address": "2867 Ellesmere Rd, Scarborough",
+    "coordinates": [
+      43.7810872,
+      -79.2054395625573
+    ]
+  },
+  {
+    "name": "Rouge Valley Health System - Ajax & Pickering",
+    "address": "580 Harwood Ave S, Ajax",
+    "coordinates": [
+      43.83739215,
+      -79.0173652616416
+    ]
+  },
+  {
+    "name": "The Scarborough Hospital - Birchmount Campus",
+    "address": "3030 Birchmount Rd, Scarborough",
+    "coordinates": [
+      43.8028785,
+      -79.3086337
+    ]
+  },
+  {
+    "name": "St. Michael's Hospital",
+    "address": "36 Queen St E, Toronto",
+    "coordinates": [
+      43.65292663157895,
+      -79.37729
+    ]
+  },
+  {
+    "name": "Women's College Hospital",
+    "address": " 76 Grenville St, Toronto",
+    "coordinates": [
+      43.66173045,
+      -79.38753922961365
+    ]
+  },
+  {
+    "name": "Michael Garron Hospital (formerly Toronto East General Hospital)",
+    "address": "825 Coxwell Ave, East York",
+    "coordinates": [
+      43.690160250000005,
+      -79.32501790246266
+    ]
+  },
+  {
+    "name": "Trillium Health Partners - Mississauga",
+    "address": "100 Queensway W, Mississauga",
+    "coordinates": [
+      43.5719262,
+      -79.60808433976982
+    ]
+  },
+  {
+    "name": "Trillium Health Partners - Queensway",
+    "address": "150 Sherway Dr, Etobicoke",
+    "coordinates": [
+      43.6099866,
+      -79.56272346216254
+    ]
+  },
+  {
+    "name": "University Health Network - Princess Margaret",
+    "address": "620 University Ave, Toronto",
+    "coordinates": [
+      43.658517,
+      -79.390206
+    ]
+  },
+  {
+    "name": "University Health Network - Toronto Western",
+    "address": "399 Bathurst St, Toronto",
+    "coordinates": [
+      43.653566999999995,
+      -79.40549604487205
+    ]
+  },
+  {
+    "name": "William Osler Health Centre - Etobicoke General",
+    "address": "101 Humber College Blvd, Etobicoke",
+    "coordinates": [
+      43.7290756,
+      -79.59788584813774
+    ]
+  },
+  {
+    "name": "Humber River Hospital - Church St",
+    "address": "200 Church St, York",
+    "coordinates": [
+      43.7095314,
+      -79.51054484615399
+    ]
+  },
+  {
+    "name": "Humber River Hospital - Finch Ave",
+    "address": ": 2111 Finch Ave W, North York",
+    "coordinates": [
+      43.7536378,
+      -79.5260221
+    ]
+  },
+  {
+    "name": "Humber River Hospital - Keele St",
+    "address": " 1235 Wilson Ave, North York",
+    "coordinates": [
+      43.723172500000004,
+      -79.48942050990618
+    ]
+  },
+  {
+    "name": "Hospital for Sick Children",
+    "address": "170 Elizabeth St, Toronto",
+    "coordinates": [
+      43.657087,
+      -79.386051
+    ]
+  },
+  {
+    "name": "Mount Sinai Hospital",
+    "address": "600 University Ave, Toronto",
+    "coordinates": [
+      43.6574502,
+      -79.39032113692951
+    ]
+  },
+  {
+    "name": "North York General Hospital",
+    "address": "4001 Leslie St, Toronto",
+    "coordinates": [
+      43.7692285,
+      -79.3625576854712
+    ]
+  },
+  {
+    "name": "Rouge Valley Health System - Centenary",
+    "address": "2867 Ellesmere Rd, Scarborough",
+    "coordinates": [
+      43.7810872,
+      -79.2054395625573
+    ]
+  },
+  {
+    "name": "Rouge Valley Health System - Ajax & Pickering",
+    "address": "580 Harwood Ave S, Ajax",
+    "coordinates": [
+      43.83739215,
+      -79.0173652616416
+    ]
+  },
+  {
+    "name": "The Scarborough Hospital - Birchmount Campus",
+    "address": "3030 Birchmount Rd, Scarborough",
+    "coordinates": [
+      43.8028785,
+      -79.3086337
+    ]
+  },
+  {
+    "name": "St. Michael's Hospital",
+    "address": "36 Queen St E, Toronto",
+    "coordinates": [
+      43.65292663157895,
+      -79.37729
+    ]
+  },
+  {
+    "name": "Women's College Hospital",
+    "address": " 76 Grenville St, Toronto",
+    "coordinates": [
+      43.66173045,
+      -79.38753922961365
+    ]
+  },
+  {
+    "name": "Michael Garron Hospital (formerly Toronto East General Hospital)",
+    "address": "825 Coxwell Ave, East York",
+    "coordinates": [
+      43.690160250000005,
+      -79.32501790246266
+    ]
+  },
+  {
+    "name": "Trillium Health Partners - Mississauga",
+    "address": "100 Queensway W, Mississauga",
+    "coordinates": [
+      43.5719262,
+      -79.60808433976982
+    ]
+  },
+  {
+    "name": "Trillium Health Partners - Queensway",
+    "address": "150 Sherway Dr, Etobicoke",
+    "coordinates": [
+      43.6099866,
+      -79.56272346216254
+    ]
+  },
+  {
+    "name": "University Health Network - Princess Margaret",
+    "address": "620 University Ave, Toronto",
+    "coordinates": [
+      43.658517,
+      -79.390206
+    ]
+  },
+  {
+    "name": "University Health Network - Toronto Western",
+    "address": "399 Bathurst St, Toronto",
+    "coordinates": [
+      43.653566999999995,
+      -79.40549604487205
+    ]
+  },
+  {
+    "name": "William Osler Health Centre - Etobicoke General",
+    "address": "101 Humber College Blvd, Etobicoke",
+    "coordinates": [
+      43.7290756,
+      -79.59788584813774
+    ]
+  }
+]

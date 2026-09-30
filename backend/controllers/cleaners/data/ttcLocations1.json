@@ -1,0 +1,564 @@
+{
+  "stations": [
+    {
+      "name": "Finch",
+      "address": "5697 Yonge St, North York",
+      "coord": [
+        43.7819612,
+        -79.4157444
+      ]
+    },
+    {
+      "name": "North York Centre",
+      "address": "5150 Yonge St, North York",
+      "coord": [
+        43.7683895,
+        -79.4143069
+      ]
+    },
+    {
+      "name": "Sheppard\u00e2\u20ac\u201cYonge",
+      "address": "20 Sheppard Ave W, North York",
+      "coord": [
+        43.7614518,
+        -79.4109148
+      ]
+    },
+    {
+      "name": "York Mills",
+      "address": "4015 Yonge St, North York",
+      "coord": [
+        43.7432373,
+        -79.4062969
+      ]
+    },
+    {
+      "name": "Lawrence",
+      "address": "3101 Yonge St, Toronto",
+      "coord": [
+        43.7253448,
+        -79.4020525
+      ]
+    },
+    {
+      "name": "Eglinton",
+      "address": "2190 Yonge St, Toronto",
+      "coord": [
+        43.7051484,
+        -79.3981113
+      ]
+    },
+    {
+      "name": "Davisville",
+      "address": "1900 Yonge St, Toronto",
+      "coord": [
+        43.697936,
+        -79.3972908
+      ]
+    },
+    {
+      "name": "St. Clair",
+      "address": "1 St Clair Ave E, Toronto",
+      "coord": [
+        43.68796975,
+        -79.39361246258844
+      ]
+    },
+    {
+      "name": "Summerhill",
+      "address": "1180 Yonge St, Toronto",
+      "coord": [
+        43.6517788,
+        -79.3789935
+      ]
+    },
+    {
+      "name": "Rosedale",
+      "address": "2 Crescent Rd, Toronto",
+      "coord": [
+        43.6770878,
+        -79.3893255
+      ]
+    },
+    {
+      "name": "Bloor\u00e2\u20ac\u201cYonge",
+      "address": "720 Yonge St, Toronto",
+      "coord": [
+        43.668371384615384,
+        -79.38612615384616
+      ]
+    },
+    {
+      "name": "Wellesley",
+      "address": "15 Wellesley St E, Toronto",
+      "coord": [
+        43.665006,
+        -79.383728
+      ]
+    },
+    {
+      "name": "College",
+      "address": "3 Carlton St, Toronto",
+      "coord": [
+        43.6612272,
+        -79.3825822
+      ]
+    },
+    {
+      "name": "Dundas",
+      "address": "3 Dundas Street East Toronto",
+      "coord": [
+        43.6565367,
+        -79.3810223
+      ]
+    },
+    {
+      "name": "Queen",
+      "address": "171 Yonge St, Toronto",
+      "coord": [
+        43.652351,
+        -79.379093
+      ]
+    },
+    {
+      "name": "King",
+      "address": "70 Yonge St, Toronto",
+      "coord": [
+        43.6517788,
+        -79.3789935
+      ]
+    },
+    {
+      "name": "Union",
+      "address": "55 Front St W, Toronto",
+      "coord": [
+        43.645609, 
+        -79.380747
+      ]
+    },
+    {
+      "name": "St. Andrew",
+      "address": "67 King St W, Toronto",
+      "coord": [
+        43.648399636363635,
+        -79.38094527272727
+      ]
+    },
+    {
+      "name": "Osgoode",
+      "address": "356 Queen St W, Toronto",
+      "coord": [
+        43.6491323,
+        -79.3955125
+      ]
+    },
+    {
+      "name": "St. Patrick",
+      "address": "449 University Ave, Toronto",
+      "coord": [
+        43.6465404,
+        -79.384168
+      ]
+    },
+    {
+      "name": "Queen's Park",
+      "address": "484 University Ave, Toronto",
+      "coord": [
+        43.6551414,
+        -79.3887892
+      ]
+    },
+    {
+      "name": "Museum",
+      "address": "174 Bedford Rd, Toronto",
+      "coord": [
+        43.675262075,
+        -79.400218025
+      ]
+    },
+    {
+      "name": "St. George",
+      "address": "323 Bloor St W, Toronto",
+      "coord": [
+        43.643218,
+        -79.5296943
+      ]
+    },
+    {
+      "name": "Spadina",
+      "address": "6 Spadina Rd, Toronto",
+      "coord": [
+        43.667134,
+        -79.40417866666667
+      ]
+    },
+    {
+      "name": "Dupont",
+      "address": "278 Dupont St, Toronto",
+      "coord": [
+        43.6749264,
+        -79.4073872
+      ]
+    },
+    {
+      "name": "St. Clair West",
+      "address": "370 St Clair Ave W, Toronto",
+      "coord": [
+        43.6736681,
+        -79.4621352
+      ]
+    },
+    {
+      "name": "Eglinton West",
+      "address": "1300 Eglinton Ave W, York",
+      "coord": [
+        43.6989025,
+        -79.4359985
+      ]
+    },
+    {
+      "name": "Glencairn",
+      "address": "610 Glencairn Ave, North York",
+      "coord": [
+        43.71134378,
+        -79.43345336
+      ]
+    },
+    {
+      "name": "Lawrence West",
+      "address": "655 Lawrence Ave W, North York",
+      "coord": [
+        43.7028405,
+        -79.5038369
+      ]
+    },
+    {
+      "name": "Yorkdale",
+      "address": "1 Yorkdale Rd, North York",
+      "coord": [
+        43.7251722,
+        -79.4492251
+      ]
+    },
+    {
+      "name": "Wilson",
+      "address": "570 Wilson Ave, North York",
+      "coord": [
+        43.7344762,
+        -79.4500619
+      ]
+    },
+    {
+      "name": "Sheppard West",
+      "address": "1035 Sheppard Ave W, North York",
+      "coord": [
+        43.7553651,
+        -79.4756653
+      ]
+    },
+    {
+      "name": "Downsview Park",
+      "address": "35 Carl Hall Rd, North York",
+      "coord": [
+        43.746300899999994,
+        -79.4789457268037
+      ]
+    },
+    {
+      "name": "Finch West",
+      "address": "3950 Keele St, North York",
+      "coord": [
+        43.764653,
+        -79.491279
+      ]
+    },
+    {
+      "name": "York University",
+      "address": "120 Ian Macdonald Blvd, North York",
+      "coord": [
+        43.77383185,
+        -79.49981056529253
+      ]
+    },
+    {
+      "name": "Pioneer Village",
+      "address": "2800 Steeles Ave W, Concord",
+      "coord": [
+        43.782311,
+        -79.493332
+      ]
+    },
+    {
+      "name": "Highway 407",
+      "address": "7332 Jane St, Vaughan",
+      "coord": [
+        43.7833141,
+        -79.5230877
+      ]
+    },
+    {
+      "name": "Vaughan",
+      "address": "3150 Highway 7, Vaughan",
+      "coord": [
+        43.7942413,
+        -79.5274638
+      ]
+    },
+    {
+      "name": "Kipling",
+      "address": "5246 Dundas St W, Etobicoke",
+      "coord": [
+        43.6383806,
+        -79.5380043
+      ]
+    },
+    {
+      "name": "Islington",
+      "address": "3286 Bloor St W, Etobicoke",
+      "coord": [
+        43.645494799999994,
+        -79.52199237344752
+      ]
+    },
+    {
+      "name": "Royal York",
+      "address": "3010 Bloor St W, Etobicoke",
+      "coord": [
+        43.64768855,
+        -79.51107175727518
+      ]
+    },
+    {
+      "name": "Old Mill",
+      "address": "2672 Bloor St W, Etobicoke",
+      "coord": [
+        43.6496664,
+        -79.4951763
+      ]
+    },
+    {
+      "name": "Jane",
+      "address": "2440 Bloor St W, Toronto",
+      "coord": [
+        43.6495075,
+        -79.4842975
+      ]
+    },
+    {
+      "name": "Runnymede",
+      "address": "2210 Bloor St W, Toronto",
+      "coord": [
+        43.6513565,
+        -79.4758992
+      ]
+    },
+    {
+      "name": "High Park",
+      "address": "66 High Park Ave, Toronto",
+      "coord": [
+        43.6654062,
+        -79.4703128
+      ]
+    },
+    {
+      "name": "Keele",
+      "address": "1730 Bloor St W, Toronto",
+      "coord": [
+        43.6551655,
+        -79.45924397651787
+      ]
+    },
+    {
+      "name": "Dundas West",
+      "address": "1599 Bloor St W, Toronto",
+      "coord": [
+        43.65564239411765,
+        -79.45503444705884
+      ]
+    },
+    {
+      "name": "Lansdowne",
+      "address": "1297 Bloor St W, Toronto",
+      "coord": [
+        43.65811392,
+        -79.44313752000001
+      ]
+    },
+    {
+      "name": "Dufferin",
+      "address": "1060 Bloor St W, Toronto",
+      "coord": [
+        43.6605363,
+        -79.4326832
+      ]
+    },
+    {
+      "name": "Ossington",
+      "address": "893 Bloor St W, Toronto",
+      "coord": [
+        43.66178762,
+        -79.42591336000001
+      ]
+    },
+    {
+      "name": "Christie",
+      "address": "726 Bloor St W, Toronto",
+      "coord": [
+        43.6637163,
+        -79.4182254
+      ]
+    },
+    {
+      "name": "Bathurst",
+      "address": "819 Bathurst St, Toronto",
+      "coord": [
+        43.6849348,
+        -79.4190231
+      ]
+    },
+    {
+      "name": "Bay",
+      "address": "20 Bay St, Toronto",
+      "coord": [
+        43.6416563,
+        -79.3774803
+      ]
+    },
+    {
+      "name": "Sherbourne",
+      "address": "425 Sherbourne St, Toronto",
+      "coord": [
+        43.66518395,
+        -79.37355006142161
+      ]
+    },
+    {
+      "name": "Castle Frank",
+      "address": "600 Bloor St E, Toronto",
+      "coord": [
+        43.6734986,
+        -79.3690458
+      ]
+    },
+    {
+      "name": "Broadview",
+      "address": "769 Broadview Ave, Toronto",
+      "coord": [
+        43.6763992,
+        -79.3587343
+      ]
+    },
+    {
+      "name": "Chester",
+      "address": "22 Chester Ave, Toronto",
+      "coord": [
+        43.67861497297298,
+        -79.35247724324324
+      ]
+    },
+    {
+      "name": "Pape",
+      "address": "650 Danforth Ave, Toronto",
+      "coord": [
+        43.6790247,
+        -79.3451187
+      ]
+    },
+    {
+      "name": "Donlands",
+      "address": "1031 Danforth Ave, Toronto",
+      "coord": [
+        43.68045746315789,
+        -79.33646573157895
+      ]
+    },
+    {
+      "name": "Greenwood",
+      "address": "1177 Danforth Ave, Toronto",
+      "coord": [
+        43.6812976,
+        -79.3325492
+      ]
+    },
+    {
+      "name": "Coxwell",
+      "address": "1568 Danforth Ave, Toronto",
+      "coord": [
+        43.6834369,
+        -79.3239143
+      ]
+    },
+    {
+      "name": "Woodbine",
+      "address": "2072 Danforth Ave, Toronto",
+      "coord": [
+        43.685785116666665,
+        -79.31313208333333
+      ]
+    },
+    {
+      "name": "Main Street",
+      "address": "256 Main St, Toronto",
+      "coord": [
+        43.680925,
+        -79.2989386
+      ]
+    },
+    {
+      "name": "Victoria Park",
+      "address": "777 Victoria Park Ave, Scarborough",
+      "coord": [
+        43.6930652,
+        -79.2889067
+      ]
+    },
+    {
+      "name": "Warden",
+      "address": "701 Warden Ave, Scarborough",
+      "coord": [
+        43.7111204,
+        -79.2790432
+      ]
+    },
+    {
+      "name": "Kennedy",
+      "address": "2455 Eglinton Ave E, Scarborough",
+      "coord": [
+        43.7370047,
+        -79.246472
+      ]
+    },
+    {
+      "name": "Bayview",
+      "address": "550 Sheppard Ave E, North York",
+      "coord": [
+        43.7667987,
+        -79.3873787
+      ]
+    },
+    {
+      "name": "Bessarion",
+      "address": "701 Sheppard Ave E, North York",
+      "coord": [
+        43.7690234,
+        -79.3768045
+      ]
+    },
+    {
+      "name": "Leslie",
+      "address": "1200 Sheppard Ave E, North York",
+      "coord": [
+        43.7717573,
+        -79.3671454
+      ]
+    },
+    {
+      "name": "Don Mills",
+      "address": "1700 Sheppard Ave E, North York",
+      "coord": [
+        43.77645755,
+        -79.34716752312954
+      ]
+    }
+  ]
+}
